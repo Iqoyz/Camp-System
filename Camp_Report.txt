@@ -1,4 +1,0 @@
-Camp: NTUCamp
-1) To Camp NTUCamp
-Enquiry {hello, sender's name = LEE  }
-Replied by Santosh, Reply: good morning, Reply State = true
