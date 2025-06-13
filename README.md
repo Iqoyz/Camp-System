@@ -1,3 +1,6 @@
+# CAMS
+This is a brief description of the project. For detailed documentation, refer to the [PDF Documentation](./CAMSReport.pdf)
+
 A console application that simulate school camp system.
 
 Applied object-oriented concept and SOLID principle.
@@ -9,3 +12,5 @@ To create a new student/staff information, add a new row of student/staff in dat
 
 JAVADOC:
 To open the javadoc for the project, open doc/index.html. 
+
+
